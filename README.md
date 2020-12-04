@@ -7,3 +7,7 @@
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
+
+## Demo
+Link: [https://flight-price-prediction-apii.herokuapp.com/](https://flight-price-prediction-apii.herokuapp.com/)
+[![](https://flight-price-prediction-apii.herokuapp.com/predict)](https://flight-price-prediction-apii.herokuapp.com/)
