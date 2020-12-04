@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
+├── Flight Price Prediction.ipynb
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
