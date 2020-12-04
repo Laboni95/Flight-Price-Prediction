@@ -5,7 +5,7 @@
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
   * [Deployement on Heroku](#deployement-on-heroku)
-  * [Technologies used](#technologies used)
+  * [Technologies used](#technologies-used)
   * [Future scope of project](#future-scope)
 
 ## Link
